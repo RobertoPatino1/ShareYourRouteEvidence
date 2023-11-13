@@ -13,9 +13,9 @@ packages and offer them to tourists in a personalized way based on each user’s
 experiences.
 
 ## Resources
-- [High fidelity prototype in Figma] (https://www.figma.com/file/EQNc8YhJ3AQ8ux3ZyqoSfZ/Prototipo-(Copy)?type=design&node-id=0%3A1&mode=design&t=dVXTguQcIGfkiT5o-1)
+- [High fidelity prototype in Figma](https://www.figma.com/file/EQNc8YhJ3AQ8ux3ZyqoSfZ/Prototipo-(Copy)?type=design&node-id=0%3A1&mode=design&t=dVXTguQcIGfkiT5o-1)
 
-- [Low fidelity prototype] (https://marvelapp.com/prototype/a250061?)
+- [Low fidelity prototype](https://marvelapp.com/prototype/a250061?)
 
 
 The low fidelity prototype was used as a requirements gathering technique. The prototype was tested by an amount of 8 users.
