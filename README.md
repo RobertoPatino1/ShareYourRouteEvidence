@@ -22,6 +22,12 @@ The low fidelity prototype was used as a requirements gathering technique. The p
 The evidence of this work resides as image files inside the src/images directory on this repository
 
 
+## Customer acceptance letter
+
+The following letter shows that the customer is satisfied by the content of the delivered project document.
+![customer_acceptance](src/customer_satisfaction_acceptance_letter/customer_acceptance.png)
+
+
 ## Group members
 - María José Moyano Tamayo
 - Guillermo José Arévalo Saltos
